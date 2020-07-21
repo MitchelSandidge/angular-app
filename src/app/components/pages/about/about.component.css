@@ -1,0 +1,13 @@
+* {
+  background-color: darkgray;
+}
+
+h1 {
+  color: lightgreen;
+  text-align: center;
+  font-size: 7em;
+}
+
+p {
+  text-align: center;
+}
