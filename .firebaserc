@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-crash-todolist-aaa8f": {
+      "hosting": {
+        "angular-crash-todolist": [
+          "angular-crash-todolist-aaa8f"
+        ]
+      }
+    }
+  }
+}
